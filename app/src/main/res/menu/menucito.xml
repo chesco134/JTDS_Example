@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/sqlserver_host"
+        android:title="SQL Server Host"/>
+    <item android:id="@+id/sqlserver_user"
+        android:title="SQL Server User"/>
+    <item android:id="@+id/sqlserver_psswd"
+        android:title="SQL Server Password"/>
+</menu>

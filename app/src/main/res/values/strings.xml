@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Algolindo</string>
+    <string name="boton_conexion">Conectar</string>
+    <string name="empty_url">jdbc:jtds:sqlserver://</string>
+    <string name="empty_user">Data base user name</string>
+    <string name="empty_password">********</string>
+    <string name="back">Back</string>
+</resources>
